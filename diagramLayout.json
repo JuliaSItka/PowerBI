@@ -1,0 +1,251 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1042,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 545.3,
+            "y": 272
+          },
+          "nodeIndex": "CSL Group",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 553.6,
+            "y": 132
+          },
+          "nodeIndex": "Customer",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 124
+        },
+        {
+          "location": {
+            "x": 1202.9,
+            "y": 0
+          },
+          "nodeIndex": "DevCenter",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 224
+        },
+        {
+          "location": {
+            "x": 535.3,
+            "y": 400
+          },
+          "nodeIndex": "Division",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 1206.6,
+            "y": 118
+          },
+          "nodeIndex": "Employee",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 296
+        },
+        {
+          "location": {
+            "x": 1206.9,
+            "y": 533
+          },
+          "nodeIndex": "JobFamily",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 1211.1999999999998,
+            "y": 380
+          },
+          "nodeIndex": "JobFamilyGroup",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 1209.5,
+            "y": 269
+          },
+          "nodeIndex": "JobProfile",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 152
+        },
+        {
+          "location": {
+            "x": 1204.8000000000002,
+            "y": 683
+          },
+          "nodeIndex": "ManagementLevel",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 152
+        },
+        {
+          "location": {
+            "x": 570.09999999999991,
+            "y": 0
+          },
+          "nodeIndex": "Period",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 539.08749999999964,
+            "y": 530
+          },
+          "nodeIndex": "SBU",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 543.59687500000018,
+            "y": 666
+          },
+          "nodeIndex": "Team",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 885,
+            "y": 402
+          },
+          "nodeIndex": "VacationBalanceData",
+          "size": {
+            "height": 368,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 583,
+            "y": 829
+          },
+          "nodeIndex": "TimeOffPlan",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 163,
+            "y": 77
+          },
+          "nodeIndex": "Manager",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1962,
+            "y": 0
+          },
+          "nodeIndex": "Vacation measures visuals",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1586.6,
+            "y": 0
+          },
+          "nodeIndex": "Vacation measures matrix",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 152
+        },
+        {
+          "location": {
+            "x": 1789.8000000000002,
+            "y": 281
+          },
+          "nodeIndex": "MeasureType",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
