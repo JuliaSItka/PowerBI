@@ -2178,8 +2178,13 @@
         "measures": [
           {
             "name": "Measure",
-            "expression": "1",
-            "formatString": "0",
+            "annotations": [
+              {
+                "name": "PBI_FormatHint",
+                "value": "{\"isGeneralNumber\":true}"
+              }
+            ],
+            "expression": "if(SELECTEDVALUE('Vacation measures matrix'[TypeID]) = 1, [_AvgUsedVacation], [_SumUsedVacation])",
             "lineageTag": "34414f9a-0269-42cf-bcde-aa44ad4d0943"
           }
         ],
