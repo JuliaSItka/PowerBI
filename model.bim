@@ -2175,6 +2175,14 @@
           }
         ],
         "lineageTag": "2cfa0b04-b55d-40db-82d6-a544abab159c",
+        "measures": [
+          {
+            "name": "Measure",
+            "expression": "1",
+            "formatString": "0",
+            "lineageTag": "34414f9a-0269-42cf-bcde-aa44ad4d0943"
+          }
+        ],
         "partitions": [
           {
             "name": "MeasureType-359fe070-09ac-4b55-b4bd-512a07130cd7",
